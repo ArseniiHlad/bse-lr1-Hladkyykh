@@ -1,3 +1,3 @@
-using System;
-Console.WriteLine("Hello, NURE!");
-// 123123 
+Console.WriteLine("Введіть радіус:");
+double r = Convert.ToDouble(Console.ReadLine());
+Console.WriteLine($"Площа: {Math.PI * r * r}");
