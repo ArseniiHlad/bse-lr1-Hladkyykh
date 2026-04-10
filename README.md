@@ -22,6 +22,7 @@
 git clone [https://github.com/ArseniiHlad/bse-lr1-Hladkykh.git](https://github.com/ArseniiHlad/bse-lr1-Hladkykh.git)
 cd bse-lr1-Hladkykh
 dotnet run
+```
 
 ## Ліцензія
 
